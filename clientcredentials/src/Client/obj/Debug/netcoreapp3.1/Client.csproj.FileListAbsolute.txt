@@ -1,0 +1,16 @@
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+H:\codebase\identityserver4\clientcredentials\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
+H:\codebase\identityserver4\clientcredentials\src\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
