@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kb7k3YffQsEre7CQNHIRtyL99/LLN/hs7YqSCoD1Z1U5h3TXN50Zn1T1uwEzA6VIUw49YQt6ru9HpbHvCdrZYg==",
+  "dgSpecHash": "0fJXsr6FwfUtkzcG0e4sytYBqAtW53Y5tgP16TL418nbdeb0oGtsRShbpFtBvoLb1NrmV3jMDPbgu7j20pyR1g==",
   "success": true,
-  "projectFilePath": "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
+  "projectFilePath": "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DS\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\DS\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

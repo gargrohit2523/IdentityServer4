@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj": {}
+    "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj": {}
   },
   "projects": {
-    "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj": {
+    "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
+        "projectUniqueName": "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
         "projectName": "MvcClient",
-        "projectPath": "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
+        "projectPath": "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\MvcClient.csproj",
         "packagesPath": "C:\\Users\\DS\\.nuget\\packages\\",
-        "outputPath": "H:\\codebase\\identityserver4\\aspnetcoreinteractive\\src\\MvcClient\\obj\\",
+        "outputPath": "H:\\codebase\\IdentityServer\\aspnetcoreinteractive\\src\\MvcClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication": {
               "target": "Package",
@@ -69,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
